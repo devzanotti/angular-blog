@@ -1,0 +1,8 @@
+.container__big-card{
+    border: solid white;
+    height: 100vh;
+}
+
+.big-card__photo img{
+    width: 400px;    
+}
