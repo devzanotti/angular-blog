@@ -1,0 +1,39 @@
+.container__small-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 1vw;
+    min-width: 50vw;
+}
+
+.content__small-card{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.small-card__title a:hover{
+    text-decoration: underline;
+}
+
+.small-card__photo img{
+    width: 100%;
+}
+.small-card__photo{
+    width: 20%;
+}
+
+.small-card__title h1{
+    margin-left: 1vw;
+    text-align: justify;
+    font-size: 1vw;
+}
+.article__hr{
+    width: 90%;
+    opacity: 0.2;
+    margin: 1vw 0 ;
+}
+hr{
+    border-color: black;
+}

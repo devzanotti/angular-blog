@@ -1,8 +1,31 @@
-.container__big-card{
-    border: solid white;
-    height: 100vh;
+.container__big-card{ 
+    min-width: 50vw;
+    max-width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 1vw;
 }
-
+.content__big-card{    
+    width: 70%;
+}
 .big-card__photo img{
-    width: 400px;    
+    width: 100%;
+}
+.big-card__title h1{
+    margin: .6vw 0;
+    color: rgb(236, 236, 236);    
+    text-align: justify;
+}
+.big-card__description p{
+    text-align: justify;
+}
+.big-card__description p a{
+    margin: .6vw 0;
+    color: rgb(180, 180, 180);
+    font-size: 1.2em;
+    text-align: justify;
+}
+.big-card__title a:hover{
+    text-decoration: underline;
 }
