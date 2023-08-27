@@ -1,27 +1,80 @@
-# AngularBlog
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
+  <br />
+  Blog - Angular
+</h1>
 
-## Development server
+  <!-- project badges -->
+  <p align="center">
+    <img 
+        src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
+        alt="Code With Angular">
+
+  </p> 
+
+<div align="center">
+  	<a href="#">
+      <img src="./src/assets/img/image.png" width="400" alt="preview" />
+  	</a>
+</div>
+
+  <!-- project description and menu -->
+  <p align="center">
+      A SPA project
+    <br />
+  </p>
+</div>
+
+## Features
+- [x] Fully Component With Angular
+
+## Technologies & Techniques
+
+-   [Angular](https://angular.io)
+- Data Binding
+- Dependency Injection
+- Interpolation
+- Routing
+- Lazy Loading
+
+
+## Building
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+📦 1. Install dependencys
 
-## Build
+```bash
+$ npm install
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+📁 2. Change Directory
 
-## Running unit tests
+```bash
+$ cd angular-blog
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🔧 3. Run the script
 
-## Running end-to-end tests
+```bash
+$ ng serve
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🌐 4. Navigate to
 
-## Further help
+```bash 
+ http://localhost:4200/
+```
+Runs the app in the development mode.<br/>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Autor
+
+| Gustavo Zanotti|
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                             [Linkedin](www.linkedin.com/in/gustavo-zanotti)                                             |
+
+---
