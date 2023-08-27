@@ -75,6 +75,6 @@ Runs the app in the development mode.<br/>
 
 | Gustavo Zanotti|
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/gustavo-zanotti)                                             |
+|                                             [Linkedin](https://www.linkedin.com/in/gustavo-zanotti/)                                             |
 
 ---
