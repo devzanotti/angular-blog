@@ -9,3 +9,9 @@
     text-decoration: none;
 }
 
+header{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 2vw;
+}
